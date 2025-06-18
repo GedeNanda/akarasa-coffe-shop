@@ -347,7 +347,8 @@ footer .credit a {
   }
 
   .navbar .navbar-nav.active {
-    right: 0;
+    right: -20%;
+    background-color: #513c28;
   }
 
   .navbar .navbar-nav a {
